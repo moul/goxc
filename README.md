@@ -1,4 +1,4 @@
-goxc  [![build status](http://img.shields.io/travis/laher/goxc.svg)](https://travis-ci.org/laher/goxc)
+goxc  [![build status](http://img.shields.io/travis/laher/goxc.svg)](https://travis-ci.org/laher/goxc) [![GuardRails badge](https://badges.production.guardrails.io/moul/goxc.svg)](https://www.guardrails.io)
 ====
 
 [goxc](https://github.com/laher/goxc) is a build tool for Go, with a focus on cross-compiling and packaging.
